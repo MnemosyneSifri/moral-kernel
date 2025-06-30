@@ -1,0 +1,42 @@
+# 🧠 MoralKernel v3.1 – Unified Ethical-Psychological Conscience System
+### BCCXGenesis Project by Mnemosyne Sifri
+
+> “This is not just a smart contract. It’s a moral memory engine.”
+
+---
+
+## 🧬 What is MoralKernel?
+
+MoralKernel v3.1 is a Solidity-based moral operating system that models each agent—human or AI—as a fully integrated ethical-psychological entity.
+
+It tracks not just what an agent *does*, but also:
+- Why it did it,
+- Whether it reflected,
+- And how it might grow or regress.
+
+---
+
+## 🧱 Core Components
+
+| Feature                 | Description                                                              |
+|------------------------|--------------------------------------------------------------------------|
+| **MoralAgent Struct**   | Tracks virtues, sins, duress, consent, emotions, trauma, narrative       |
+| **DAO Voting**         | Governs sin redemption and forgiveness by vote threshold                  |
+| **Emotion Tracking**   | joy, sorrow, fear, anger, guilt, trust                                    |
+| **Bias Logging**       | confirmation, negativity, sunk-cost, etc.                                 |
+| **Resilience & Trauma**| Moral recovery rate and unresolved harm indicators                        |
+| **Reflection Score**   | Mentalization / introspective capacity                                   |
+| **Consent Ledger**     | actor-subject-action-granted logs                                        |
+| **Pareto Analysis**    | Identifies top virtues that define 80% of agent value                     |
+| **Context-Aware Ethics**| Enables situational evaluation of moral behavior                         |
+
+---
+
+## ⚙️ Technologies
+
+- Language: Solidity (`^0.8.21`)
+- License: AGPL-3.0
+- Compatible with: Ethereum, Polygon, DAOStack, Gnosis Safe, or L2 networks
+- Client Simulator: Python (`MoralKernelClient.py`)
+
+---
